@@ -23,3 +23,11 @@
 .accum_border{
     border: 4px ridge aquamarine;
 }
+
+.preset_type{
+    width: 110%
+}
+
+.accum_type{
+    width: 110%
+}
